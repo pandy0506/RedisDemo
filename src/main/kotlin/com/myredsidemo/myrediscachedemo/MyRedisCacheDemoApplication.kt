@@ -11,4 +11,3 @@ class MyRedisCacheDemoApplication
 fun main(args: Array<String>) {
     runApplication<MyRedisCacheDemoApplication>(*args)
 }
-I am doing something
